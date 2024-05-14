@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\bin\Debug\FinalprojectCPE363.exe.config
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\bin\Debug\FinalprojectCPE363.exe
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\bin\Debug\FinalprojectCPE363.pdb
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.Form1.resources
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.Properties.Resources.resources
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.csproj.GenerateResource.cache
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.exe
+\\Mac\Home\Documents\CPE363\FinalprojectCPE363\FinalprojectCPE363\FinalprojectCPE363\obj\Debug\FinalprojectCPE363.pdb
